@@ -38,12 +38,12 @@ randomImages4.forEach((randomImage, index) => {
 
 // loading ekranı
 
- setTimeout(function(){
-   $("#loading").addClass("animated fadeOut");
-   setTimeout(function(){
-     $("#loading").removeClass("animated fadeOut");
-     $("#loading").css("display","none");
-   },800);
- },3550);
+//  setTimeout(function(){
+//    $("#loading").addClass("animated fadeOut");
+//    setTimeout(function(){
+//      $("#loading").removeClass("animated fadeOut");
+//      $("#loading").css("display","none");
+//    },800);
+//  },3550);
 
 
